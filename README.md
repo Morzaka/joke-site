@@ -1,4 +1,16 @@
-==== Welcome in projec named chuck-norris-jokes ====
+
+## ==== Welcome in projec named chuck-norris-jokes ====
+
+## Setup
+```sh
+$ git clone https://github.com/Morzaka/norris-chjokes-site.git
+$ cd norris-chjokes-sit
+$ npm install
+$ npm start
+$  project run local:            http://localhost:3000/
+
+```
+Also for work with project you should install React and some other tools or just run `npm install`.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
