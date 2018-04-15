@@ -1,10 +1,10 @@
 
-## ==== Welcome in projec named chuck-norris-jokes ====
+## ==== Welcome in projec named norris-chjokes-site ====
 
 ## Setup
 ```sh
 $ git clone https://github.com/Morzaka/norris-chjokes-site.git
-$ cd norris-chjokes-sit
+$ cd norris-chjokes-site
 $ npm install
 $ npm start
 $  project run local:            http://localhost:3000/
